@@ -1,4 +1,4 @@
-# Calculatrice-Polynomial-en-C-C-
+# Calculatrice-Polynomial-en-C
 A comprehensive C program for performing various operations on polynomials with fraction coefficients.
 ## 📋 Features
 
